@@ -1,1 +1,0 @@
-alice_ts,["*",2,2]naming_server_ts,[1,"alice_ts","http://localhost:8000"]naming_server_ts,[1,"alice_ts","http://localhost:8000"]
