@@ -2,7 +2,7 @@
 
 require 'rinda/rinda'
 require 'xmlrpc/server'
-require './config_bob'
+require './bob_config'
 require './multicast'
 require './suppress_warnings'
 
