@@ -3,7 +3,7 @@
 require 'json'
 require 'socket'
 require 'rinda/tuplespace'
-require './config_alice'
+require './alice_config'
 require './multicast'
 require './multiplenotify'
 
