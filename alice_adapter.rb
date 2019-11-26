@@ -2,7 +2,7 @@
 
 require 'rinda/rinda'
 require 'xmlrpc/server'
-require './config_alice'
+require './alice_config'
 require './multicast'
 require './suppress_warnings'
 
