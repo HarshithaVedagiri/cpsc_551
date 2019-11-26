@@ -1,0 +1,17 @@
+---
+name: naming_server_ts
+uri: druby://localhost:12348
+notify:
+  - address: 224.0.0.1
+    port: 54322
+  - address: 224.0.0.1
+    port: 54323
+filters:
+  - [ ~, ~ ]
+  - [ ~, ~, ~]
+  - [ ~, ~, ~, ~]
+  - [ ~, ~, ~, ~, ~]
+adapter:
+  host: localhost
+  port: 8004
+  max_clients: 32
