@@ -3,7 +3,8 @@
 require 'json'
 require 'socket'
 require 'rinda/tuplespace'
-require './config_chuck'
+
+require './chuck_config'
 require './multicast'
 require './multiplenotify'
 
