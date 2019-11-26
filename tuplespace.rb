@@ -3,9 +3,9 @@
 require 'json'
 require 'socket'
 require 'rinda/tuplespace'
-require './config_alice'
-require './config_bob'
-require './config_chuck'
+require './alice_config'
+require './bob_config'
+require './chuck_config'
 require './multicast'
 require './multiplenotify'
 
