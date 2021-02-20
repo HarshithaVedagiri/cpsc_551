@@ -50,11 +50,7 @@ There are 2 nodes in the network, one act as client (written in python) and one 
  2. python arithmetic_server.py
  ```
  
-# The Project Team
-## Team Members
-- Shekhar Palit
-- Aditya Dingre
-- Saket Gonte
+
 ## Project Technologies
 - Programming Language - Python, Ruby 
 - Storage_Server - RInda TupleSpace
